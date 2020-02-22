@@ -1,0 +1,21 @@
+E:\Esoft\C#\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe.config
+E:\Esoft\C#\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe
+E:\Esoft\C#\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.pdb
+E:\Esoft\C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Form1.resources
+E:\Esoft\C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Properties.Resources.resources
+E:\Esoft\C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.UserControls.UserContacts.resources
+E:\Esoft\C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csproj.GenerateResource.Cache
+E:\Esoft\C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.exe
+E:\Esoft\C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.pdb
+E:\Esoft\C#\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csprojResolveAssemblyReference.cache
+E:\Esoft\My New Project\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe.config
+E:\Esoft\My New Project\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.exe
+E:\Esoft\My New Project\SkypeDemo\SkypeDemo\bin\Debug\SkypeDemo.pdb
+E:\Esoft\My New Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csprojAssemblyReference.cache
+E:\Esoft\My New Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Form1.resources
+E:\Esoft\My New Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.Properties.Resources.resources
+E:\Esoft\My New Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.UserControls.UserContacts.resources
+E:\Esoft\My New Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csproj.GenerateResource.cache
+E:\Esoft\My New Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.csproj.CoreCompileInputs.cache
+E:\Esoft\My New Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.exe
+E:\Esoft\My New Project\SkypeDemo\SkypeDemo\obj\Debug\SkypeDemo.pdb
